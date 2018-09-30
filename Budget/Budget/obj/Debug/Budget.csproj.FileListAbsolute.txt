@@ -1,0 +1,20 @@
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\bin\Debug\Budget.exe.config
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\bin\Debug\Budget.exe
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.uf_budget.resources
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.Properties.Resources.resources
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.csproj.GenerateResource.Cache
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.exe
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.pdb
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.csprojAssemblyReference.cache
+C:\Users\ggibe\Documents\Visual Studio 2013\Projects\Budget\Budget\obj\Debug\Budget.csproj.CoreCompileInputs.cache
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\bin\Debug\Budget.exe.config
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\bin\Debug\Budget.exe
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.csprojAssemblyReference.cache
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.uf_budget.resources
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.Properties.Resources.resources
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.csproj.GenerateResource.cache
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.csproj.CoreCompileInputs.cache
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.exe
+C:\Users\ggibe\Documents\Repos\BAM\Budget\Budget\obj\Debug\Budget.pdb
